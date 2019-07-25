@@ -23,3 +23,12 @@
     color: white;
     padding-top: 100px;
 }
+#what{
+    text-align: center;
+}
+.col4-md{
+    display: inline-block;
+}
+.col5-md{
+    display:inline-block;
+}
