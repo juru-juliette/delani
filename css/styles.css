@@ -13,6 +13,10 @@
 }
 .intro{
     text-align: center;
+    margin-top: 60px;
+}
+.service{
+    margin-top: 60px;
 }
 .card2{
     background-image: url("../images/image2.jpg");
@@ -22,13 +26,23 @@
     text-align: center;
     color: white;
     padding-top: 100px;
+    margin-top: 60px;
 }
 #what{
     text-align: center;
+    margin-top: 60px;
 }
-.col4-md{
-    display: inline-block;
+.card3{
+ background-image: url("../images/image3.jpg");
+ height: 300px;
+ background-size: cover;
+ background-repeat: no-repeat;
+ margin-top: 60px;
 }
-.col5-md{
-    display:inline-block;
+h4{
+    text-align: center;
+    margin-top: 60px;
+}
+h5{
+    text-align: center;
 }
