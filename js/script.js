@@ -8,4 +8,15 @@ $(document).ready(function(){
  $("img#icon3").click(function(){
     $("#P3").toggle();
  });
+ $(function(){
+    $("#img2").on({
+     mouseenter: function(){
+      $(this).attr('src','images/work4.jpg');
+    },
+    mouseleave: function(){
+      $(this).attr('src','images/work4.jpg');
+    }
+    });
+    
+  });
 });

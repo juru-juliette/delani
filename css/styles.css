@@ -90,4 +90,9 @@ h5{
 #icon3{
     margin-left:100px;
 }
-
+input::-webkit-input-placeholder{
+    color:white !important;
+}
+textarea::-webkit-input-placeholder{
+    color: white !important;
+}
