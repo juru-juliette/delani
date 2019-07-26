@@ -50,7 +50,7 @@ h5{
     position: relative;
     display: inline-block;
     margin-bottom: 25px;
-    padding: 10px;
+  
  
 }
 .copyright{
@@ -67,5 +67,26 @@ h5{
    background-color: transparent;
    border-radius: 0px;
    border-radius: 1px solid white;
+}
+.button {
+    text-align: center;
+}
+#P1{
+    display: none;
+}
+#P2{
+    display: none;
+}
+#P3{
+    display: none;
+}
+#icon1{
+    margin-left:100px;
+}
+#icon2{
+    margin-left:150px;
+}
+#icon3{
+    margin-left:100px;
 }
 
