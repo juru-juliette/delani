@@ -9,5 +9,6 @@ $(document).ready(function(){
  $("img#icon3").click(function(){
     $("#P3").toggle();
  });
+ 
  });
  
