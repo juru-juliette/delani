@@ -96,5 +96,11 @@ function(){
    $(this).stop().animate({opacity:1},500);
    $(".eight").fadeOut();
 });
+$(".button").click(function(){
+   var name=$("#name").val()
+   alert (name +"Thank you for reaching out to us");
+});
+
  });
+
  
