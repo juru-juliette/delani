@@ -74,5 +74,16 @@ function(){
    $(this).stop().animate({opacity:1},500);
    $(".six").fadeOut();
 });
+//seventh image
+$(".seven").hide();
+$("#col7").animate({opacity:1});
+$("#img8").hover(function(){
+   $(this).stop().animate({opacity:.4},200);
+   $(".seven").fadeIn();
+},
+function(){
+   $(this).stop().animate({opacity:1},500);
+   $(".seven").fadeOut();
+});
  });
  
