@@ -9,7 +9,7 @@ This is webpage for delani studio, where you can get more information about us w
 * bootstrap version 4.3.1
 
 ## portforio
-{img1.jpg}
+/home/wecode/Documents/delani/images/img1.jpg
 ## Technologies Used
 * html(hyper-text markup language)
 * css(cascading style sheet)
