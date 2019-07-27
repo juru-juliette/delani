@@ -85,5 +85,16 @@ function(){
    $(this).stop().animate({opacity:1},500);
    $(".seven").fadeOut();
 });
+//eight image
+$(".eight").hide();
+$("#col8").animate({opacity:1});
+$("#img9").hover(function(){
+   $(this).stop().animate({opacity:.4},200);
+   $(".eight").fadeIn();
+},
+function(){
+   $(this).stop().animate({opacity:1},500);
+   $(".eight").fadeOut();
+});
  });
  
