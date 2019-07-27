@@ -41,7 +41,7 @@
 }
 h4{
     text-align: center;
-    margin-top: 60px;
+    margin-top: 30px;
 }
 h5{
     text-align: center;
@@ -66,7 +66,27 @@ h5{
 .form-control{
    background-color: transparent;
    border-radius: 0px;
-   border-radius: 1px solid white;
+   width: 650px;
+   margin-left: 200px;
+  
+ }
+#h5{
+    color: white;
+}
+#name{
+    width: 350px;
+    right: 400px;
+
+}
+#email{
+    width: 350px;
+    right: 400px;
+   margin-left: 0px;
+}
+#textarea{
+    width: 800px;
+    right: 400px;
+    margin-right: 390px;
 }
 .button {
     text-align: center;
