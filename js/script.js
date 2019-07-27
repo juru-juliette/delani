@@ -52,5 +52,16 @@ function(){
    $(this).stop().animate({opacity:1},500);
    $(".four").fadeOut();
 });
+//fifth image
+$(".five").hide();
+$("#col5").animate({opacity:1});
+$("#img6").hover(function(){
+   $(this).stop().animate({opacity:.4},200);
+   $(".five").fadeIn();
+},
+function(){
+   $(this).stop().animate({opacity:1},500);
+   $(".five").fadeOut();
+});
  });
  
