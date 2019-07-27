@@ -1,8 +1,8 @@
 # delani
 This is a fictional studio landing page 
-# {Delani Studio}
+# Delani Studio
 ## Description
-{This is webpage for delani studio, where you can get more information about us what we do and portforio}
+This is webpage for delani studio, where you can get more information about us what we do and portforio
 ## Setup/Installation Requirements
 * visual studio code
 * To create a repository on github
@@ -19,4 +19,4 @@ This is a fictional studio landing page
 * Contact: +250787873242 &+250789557608
 * Email: kangabejuliette@gmail.com
 ### License
-Copyright (c) {2019} **{kangabe juliette}**
+Copyright (c) {2019} kangabe juliette
