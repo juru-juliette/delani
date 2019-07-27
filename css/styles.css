@@ -103,6 +103,38 @@ textarea::-webkit-input-placeholder{
     width:150px;
     height: 150px;
     color: black;
-    font-size: 20px;
+    font-size: 40px;
     font-family: sans-serif;
 }
+.two{
+    position: absolute;
+    top:40%;
+    text-align: center;
+    width:150px;
+    height: 150px;
+    color: black;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+.three{
+    position: absolute;
+    top:40%;
+    text-align: center;
+    width:150px;
+    height: 150px;
+    color: black;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+.four{
+    position: absolute;
+    top:40%;
+    text-align: center;
+    width:150px;
+    height: 150px;
+    color: black;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+
