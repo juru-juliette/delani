@@ -146,5 +146,15 @@ textarea::-webkit-input-placeholder{
     font-size: 40px;
     font-family: sans-serif;
 }
+.six{
+    position: absolute;
+    top:40%;
+    text-align: center;
+    width:150px;
+    height: 150px;
+    color: black;
+    font-size: 40px;
+    font-family: sans-serif;
+}
 
 
